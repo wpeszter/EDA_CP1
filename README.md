@@ -8,9 +8,10 @@ https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumptio
 
 After downloading and unzipping the data into your working directory, and the plot.R files, you can use them with the following lines:
 
-source("plot1.R)
+source("plot1.R")
 plot1()
 
-source("plot1.R)
-plot1()
+source("plot2.R")
+plot2()
 
+etc.
